@@ -1,0 +1,12 @@
+{
+  "name": "aprendiendo-javascript",
+  "version": "1.0.0",
+  "description": "realizando el curso de openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "Jest"
+  },
+  "author": "Marti Elias De León Pertuz",
+  "license": "ISC"
+}
