@@ -4,6 +4,7 @@
   "description": "realizando el curso de openbootcamp",
   "main": "index.js",
   "scripts": {
+    "second": "node notacion.js",
     "start": "node index.js",
     "test": "Jest"
   },
